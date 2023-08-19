@@ -1,0 +1,26 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly
+}
+
+.content div {
+  height: 200px;
+  width: 200px;
+}
+
+#card1 {
+  background-color: blue;
+}
+
+#card2 {
+  background-color: red;
+}
+
+#card3 {
+  background-color: green;
+}
+
+#card4 {
+  background-color: yellow;
+}
